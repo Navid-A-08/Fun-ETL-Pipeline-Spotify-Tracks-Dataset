@@ -329,12 +329,4 @@ Potential improvements for this pipeline:
 
 ## License
 
-This project is open source and available for educational and commercial use.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
-**Built with Python, Pandas, and PostgreSQL**
+Free to use. You may use, copy, modify, and share this project for any purpose.
