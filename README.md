@@ -329,4 +329,4 @@ Potential improvements for this pipeline:
 
 ## License
 
-Free to use. You may use, copy, modify, and share this project for any purpose.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for the full text.
